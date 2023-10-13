@@ -8,5 +8,6 @@
   },
   "keywords": ["javascript", "ecmascript"],
   "author": "Alexander Sencion <alexandersenc99@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type":"module"
 }
