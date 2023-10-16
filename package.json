@@ -6,8 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["javascript", "ecmascript"],
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
   "author": "Alexander Sencion <alexandersenc99@gmail.com>",
   "license": "MIT",
-  "type":"module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
